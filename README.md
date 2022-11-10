@@ -1,9 +1,7 @@
-### Hi there 👋
+# Hi there, I'am Kushal 👋
 
-<!--
-**kushal-punem/kushal-punem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +10,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kushal-punem&show_icons=true&theme=radical"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-punem&layout=compact"/>
+
+
+
