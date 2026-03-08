@@ -58,7 +58,7 @@
 <br/>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kushal-punem\&repo=loyalty-points-demo_HyperledgerFabric\&theme=tokyonight)](https://github.com/kushal-punem/loyalty-points-demo_HyperledgerFabric)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kushal-punem&repo=loyalty-points-demo_HyperledgerFabric" />
 
 ## Connect with me:
 <p align="left">
