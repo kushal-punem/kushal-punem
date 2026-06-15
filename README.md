@@ -2,8 +2,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Blockchain Development**
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+I primarily work with C++ and Linux, and enjoy building projects that deepen my understanding of operating systems, automation, and system reliability. I am continuously improving my skills in Data Structures & Algorithms, Linux internals, system design, and backend development. I enjoy learning by building practical projects, exploring new technologies, and solving real-world engineering challenges.
+
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+When I'm not coding, you'll find me learning about quantitative trading, improving my technical knowledge, and working toward becoming a better software engineer every day.
+
+Goal: To build reliable, scalable software and contribute to impactful open-source and real-world projects.
+
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/kushal-punem?tab=repositories)**
 - 📫 How to reach me **kushalpunem912@gmail.com**
@@ -48,12 +54,6 @@
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<img src="https://activity-graph.herokuapp.com/graph?username=kushal-punem&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-
----
-
 ## 🚀 Featured Project
 
 <a href="https://github.com/kushal-punem/loyalty-points-demo_HyperledgerFabric">
@@ -66,10 +66,10 @@
 
 <p align="left">
 
-<a href="#"><img src="https://img.icons8.com/fluent/48/linkedin.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluent/48/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/kushalpunem/"><img src="https://img.icons8.com/fluent/48/linkedin.png"/></a>
+<a href="https://x.com/Kushal27069591"><img src="https://img.icons8.com/fluent/48/twitter.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluent/48/instagram-new.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/youtube-play.png"/></a>
+
 
 </p>
 
@@ -78,5 +78,3 @@
 ## ❤ Views and Followers
 
 <img src="https://komarev.com/ghpvc/?username=kushal-punem"/>
-
-<img src="https://img.shields.io/github/followers/kushal-punem?label=Followers&style=social"/>
