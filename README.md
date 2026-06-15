@@ -61,6 +61,10 @@ Goal: To build reliable, scalable software and contribute to impactful open-sour
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kushal-punem&repo=loyalty-points-demo_HyperledgerFabric&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
+<a href="https://github.com/kushal-punem/loyalty-points-demo_HyperledgerFabric">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kushal-punem&repo=loyalty-points-demo_HyperledgerFabric&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
+
 ---
 
 ## 🤝 Connect with Me
