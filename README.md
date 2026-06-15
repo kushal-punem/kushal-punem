@@ -74,12 +74,4 @@ Goal: To build reliable, scalable software and contribute to impactful open-sour
 <a href="https://www.linkedin.com/in/kushalpunem/"><img src="https://img.icons8.com/fluent/48/linkedin.png"/></a>
 <a href="https://x.com/Kushal27069591"><img src="https://img.icons8.com/fluent/48/twitter.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluent/48/instagram-new.png"/></a>
-
-
 </p>
-
----
-
-## ❤ Views and Followers
-
-<img src="https://komarev.com/ghpvc/?username=kushal-punem"/>
