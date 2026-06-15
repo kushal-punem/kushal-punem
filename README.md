@@ -7,7 +7,8 @@ I primarily work with C++ and Linux, and enjoy building projects that deepen my 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 When I'm not coding, you'll find me learning about quantitative trading, improving my technical knowledge, and working toward becoming a better software engineer every day.
-
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /><br>
 Goal: To build reliable, scalable software and contribute to impactful open-source and real-world projects.
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
